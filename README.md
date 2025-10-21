@@ -12,7 +12,7 @@
 - The app is built using Laravel 8.
 - The app uses Vue.js for the frontend.
 - The app uses Tailwind CSS for the styling.
-- No external dependencies were installed to keep simplicity.
+- No extra dependencies were installed to keep simplicity.
 
 ## Cache and optimization
 - Database caching is used for simplicity. Redis should  work as well.
